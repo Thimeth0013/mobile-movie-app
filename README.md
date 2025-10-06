@@ -1,20 +1,23 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Movie Mania - Discover Your Next Favorite Film
 
-## Get started
+Welcome to **Movie Mania**, a React Native app built with TypeScript to explore, search, save, and manage your movie preferences using the TMDb API.
+
+##About the App
+
+**Movie Mania** is your go-to app for discovering the latest movies, searching for specific titles, saving favorites, and managing your profile. Powered by the TMDb API, this app brings you up-to-date movie details in a sleek, user-friendly interface.
+
+##Get Started
 
 1. Install dependencies
-
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 2. Start the app
-
-   ```bash
-   npx expo start
-   ```
+```bash
+npx expo start
+```
 
 In the output, you'll find options to open the app in a
 
@@ -34,6 +37,16 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Project Structure
+
+This project uses file-based routing with React Native and TypeScript.
+
+Key features include:
+- **Discover:** Browse the latest movies from TMDb.
+- **Search:** Find movies by title or keyword.
+- **Save:** Add movies to your favorites list.
+- **Profile:** Manage your user profile and preferences.
 
 ## Learn more
 
