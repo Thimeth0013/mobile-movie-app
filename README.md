@@ -1,5 +1,5 @@
 
-🎬 # Movie Mania - Discover Your Next Favorite Film
+# Movie Mania - Discover Your Next Favorite Film 🎬
 
 Welcome to **Movie Mania**, a React Native app built with TypeScript to explore, search, save, and manage your movie preferences using the TMDb API.
 
