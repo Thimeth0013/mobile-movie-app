@@ -1,13 +1,13 @@
 
-# Movie Mania - Discover Your Next Favorite Film
+🎬 # Movie Mania - Discover Your Next Favorite Film
 
 Welcome to **Movie Mania**, a React Native app built with TypeScript to explore, search, save, and manage your movie preferences using the TMDb API.
 
-##About the App
+## About the App
 
 **Movie Mania** is your go-to app for discovering the latest movies, searching for specific titles, saving favorites, and managing your profile. Powered by the TMDb API, this app brings you up-to-date movie details in a sleek, user-friendly interface.
 
-##Get Started
+## Get Started
 
 1. Install dependencies
 ```bash
